@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-estatuto.json": {
+   "acts": [
+    "estatuto-de-autonomia"
+   ],
+   "sha256": "ea82c9b6b77cd7ed991f74343fcea0bcfec0e364d84f762000ec11b89ba1718a"
+  }
+ },
+ "schema": 1
+}
