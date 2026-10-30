@@ -1,0 +1,28 @@
+The law texts in this repository are official texts of the autonomous city of Melilla (Ciudad Autónoma de Melilla, Spain) and of
+the Spanish State, taken from the consolidated legislation of the Agencia Estatal Boletín Oficial del Estado (BOE),
+https://www.boe.es/datosabiertos/api/legislacion-consolidada (consulted 2026-10-30).
+
+Spanish law does not protect them by copyright. Ley de Propiedad Intelectual (Real Decreto Legislativo 1/1996),
+artículo 13: "No son objeto de propiedad intelectual las disposiciones legales o reglamentarias y sus correspondientes
+proyectos, las resoluciones de los órganos jurisdiccionales y los actos, acuerdos, deliberaciones y dictámenes de los
+organismos públicos, así como las traducciones oficiales de todos los textos anteriores." (Laws and regulations, court
+decisions and the acts of public bodies, and their official translations, are not subject to intellectual property.)
+
+The BOE's reuse conditions (licencia tipo approved by Resolución of 27 June 2024,
+https://www.boe.es/informacion/aviso_legal/index.php#reutilizacion) allow reuse for commercial and non-commercial
+purposes, including copying, distribution, extraction, rearrangement and combination into derived works, provided
+the source is cited, the meaning is not altered, the information is not presented as official, consolidated texts
+are marked as informative only, and the last update date is given. Accordingly:
+
+  Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es).
+
+  Every text in this repository is a consolidated text for information only ("texto consolidado de carácter
+  meramente informativo"). The BOE's last-update date for each text is listed in README.md. The Agencia Estatal
+  Boletín Oficial del Estado does not take part in, sponsor or endorse this repository.
+
+What is not the BOE's: the division of each text into one file per article (headings kept with the article that
+follows them), the history as git commits, the commit messages, the tables and the tools are Lexifina's. The words of
+each text are the BOE's, unchanged except for spacing (one paragraph per line; table cells separated by " | ").
+
+Lexifina's own contributions are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/

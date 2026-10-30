@@ -1,0 +1,19 @@
+{
+ "country": "ES-ML",
+ "acts": [
+  {
+   "slug": "estatuto-de-autonomia",
+   "short": "Ley Orgánica 2/1995, de 13 de marzo",
+   "title": "Ley Orgánica 2/1995, de 13 de marzo, de Estatuto de Autonomía de Melilla.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-6359",
+   "versions": [
+    {
+     "from": "1995-03-15",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-6359",
+     "sha256": "2e770efd75770fcc1e2f54bcf25bf35ac7bc2c92576174ffd8c5cff3ef2cae79"
+    }
+   ]
+  }
+ ]
+}

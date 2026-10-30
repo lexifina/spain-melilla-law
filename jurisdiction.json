@@ -1,0 +1,11 @@
+{
+  "path": "es-ml",
+  "code": "ES-ML",
+  "name": "Melilla",
+  "level": "autonomous city",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-melilla-law",
+  "build": "built: statute of autonomy (1 norms, 1 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
