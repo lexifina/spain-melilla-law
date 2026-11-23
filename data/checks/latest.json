@@ -1,11 +1,20 @@
 {
- "generated": "2026-11-23T01:09:58Z",
+ "generated": "2026-11-23T14:06:22Z",
  "latest": {
   "boe-autonomico|spain/melilla/acts": {
-   "attempt": 1,
-   "audit": null,
+   "attempt": 2,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 1,
+    "match_old": 0,
+    "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
+    "sampled": 1,
+    "unread": 0
+   },
    "census": {
     "awaiting_text": 0,
+    "checked": 1,
     "current": 1,
     "gone": 0,
     "held": 1,
@@ -17,33 +26,43 @@
     "repo": 1,
     "source_in_scope": 1
    },
-   "check_id": "es-boe-autonomico-20261123T010827Z",
+   "check_id": "es-boe-autonomico-20261123T140223Z",
    "commits": null,
    "corpus": "spain/melilla/acts",
    "error": null,
-   "finished": "2026-11-23T01:08:27Z",
+   "finished": "2026-11-23T14:02:29Z",
    "flags": [],
    "gap": 0,
-   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-10-30; first check: the BOE's entries were recorded as the baseline for the next check",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 10,
-   "runner": "lawwatch spain (f95b387938)",
+   "requests": 12,
+   "runner": "lawwatch spain (f13b561b4f)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-20T13:08:24Z",
+   "snapshot": "2026-11-23T13:21:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T01:08:27Z",
+   "started": "2026-11-23T14:02:23Z",
    "unexplained": 0,
-   "verify": null
+   "verify": {
+    "cycle_days": 30,
+    "examples": [],
+    "held": 1,
+    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 1 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (1 of 1 swept this check)",
+    "ok": true,
+    "swept": 1,
+    "unread": 0,
+    "versions_checked": 1,
+    "versions_differ": 0
+   }
   }
  },
  "schema": "lexifina-check/1"

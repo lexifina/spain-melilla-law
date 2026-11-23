@@ -42,7 +42,25 @@
     "spain/navarre/acts",
     "spain/valencia/acts"
    ],
-   "interval": 1.0
+   "interval": 1.0,
+   "allow": [
+    "ley-",
+    "decreto-",
+    "estatuto-de-autonomia/",
+    "lorafna/",
+    "boe-",
+    "boja-",
+    "bocl-",
+    "boc-",
+    "bopv-",
+    "acuerdo-",
+    "orden-",
+    "resolucion-",
+    "reglamento-",
+    "instruccion-",
+    "data/versions.json",
+    "data/commits.csv"
+   ]
   }
  ]
 }
