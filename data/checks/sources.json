@@ -1,0 +1,48 @@
+{
+ "sources": [
+  {
+   "id": "boe-autonomico",
+   "kind": "legislation",
+   "name": {
+    "en": "BOE consolidated legislation, autonomous communities (open data)",
+    "es": "Legislación consolidada del BOE, comunidades autónomas (datos abiertos)"
+   },
+   "url": "https://www.boe.es/datosabiertos/api/api.php",
+   "reads": {
+    "en": "the list of every consolidated norm (its scope, department, rank, publication and in-force days, whether its force has run out, and when the BOE last updated its consolidated text), and the BOE's daily summaries of the last 30 days for laws in section I not consolidated yet",
+    "es": "la lista de todas las normas consolidadas (su ámbito, departamento, rango, días de publicación y de entrada en vigor, si su vigencia está agotada y cuándo actualizó el BOE su texto consolidado), y los sumarios diarios del BOE de los últimos 30 días, por las leyes de la sección I aún no consolidadas"
+   },
+   "folders": [
+    "estatuto-de-autonomia/",
+    "ley-*/",
+    "decreto-ley-*/",
+    "decreto-legislativo-*/",
+    "…"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "spain/andalusia/acts",
+    "spain/aragon/acts",
+    "spain/asturias/acts",
+    "spain/balearic-islands/acts",
+    "spain/basque-country/acts",
+    "spain/canary-islands/acts",
+    "spain/cantabria/acts",
+    "spain/castile-and-leon/acts",
+    "spain/castile-la-mancha/acts",
+    "spain/catalonia/acts",
+    "spain/ceuta/acts",
+    "spain/extremadura/acts",
+    "spain/galicia/acts",
+    "spain/la-rioja/acts",
+    "spain/madrid/acts",
+    "spain/melilla/acts",
+    "spain/murcia/acts",
+    "spain/navarre/acts",
+    "spain/valencia/acts"
+   ],
+   "interval": 1.0
+  }
+ ]
+}
