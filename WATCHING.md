@@ -8,6 +8,6 @@ Cómo vigila global-law las fuentes de cada país: [global-law WATCHING.md](http
 
 | Fuente | Qué se lee | Carpetas | Frecuencia | Última lectura | Estado |
 | --- | --- | --- | --- | --- | --- |
-| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | la lista de todas las normas consolidadas (su ámbito, departamento, rango, días de publicación y de entrada en vigor, si su vigencia está agotada y cuándo actualizó el BOE su texto consolidado), y los sumarios diarios del BOE de los últimos 30 días, por las leyes de la sección I aún no consolidadas | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-23 14:02 UTC | vigilada |
+| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | la lista de todas las normas consolidadas (su ámbito, departamento, rango, días de publicación y de entrada en vigor, si su vigencia está agotada y cuándo actualizó el BOE su texto consolidado), y los sumarios diarios del BOE de los últimos 30 días, por las leyes de la sección I aún no consolidadas | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-24 07:27 UTC | vigilada |
 
 Las fuentes se leen dentro de lo que permiten su robots.txt y sus condiciones, con pausas entre peticiones.

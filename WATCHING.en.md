@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [BOE consolidated legislation, autonomous communities (open data)](https://www.boe.es/datosabiertos/api/api.php) | the list of every consolidated norm (its scope, department, rank, publication and in-force days, whether its force has run out, and when the BOE last updated its consolidated text), and the BOE's daily summaries of the last 30 days for laws in section I not consolidated yet | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | daily | 2026-11-23 14:02 UTC | watched |
+| [BOE consolidated legislation, autonomous communities (open data)](https://www.boe.es/datosabiertos/api/api.php) | the list of every consolidated norm (its scope, department, rank, publication and in-force days, whether its force has run out, and when the BOE last updated its consolidated text), and the BOE's daily summaries of the last 30 days for laws in section I not consolidated yet | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | daily | 2026-11-24 07:27 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

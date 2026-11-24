@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T14:06:22Z",
+ "generated": "2026-11-24T07:30:29Z",
  "latest": {
   "boe-autonomico|spain/melilla/acts": {
-   "attempt": 2,
+   "attempt": 1,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -26,31 +26,31 @@
     "repo": 1,
     "source_in_scope": 1
    },
-   "check_id": "es-boe-autonomico-20261123T140223Z",
+   "check_id": "es-boe-autonomico-20261124T072709Z",
    "commits": null,
    "corpus": "spain/melilla/acts",
    "error": null,
-   "finished": "2026-11-23T14:02:29Z",
+   "finished": "2026-11-24T07:27:15Z",
    "flags": [],
    "gap": 0,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 06:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261124T062451Z); this repository's data run to 2026-10-30",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 12,
-   "runner": "lawwatch spain (f13b561b4f)",
+   "requests": 13,
+   "runner": "lawwatch spain (3a3ae06cd1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-23T13:21:37Z",
+   "snapshot": "2026-11-23T14:01:19Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T14:02:23Z",
+   "started": "2026-11-24T07:27:09Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
