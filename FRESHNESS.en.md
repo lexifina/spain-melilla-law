@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/melilla/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 06:31 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-27 06:31 UTC**.
 - Acts held here: 1; current at the source: 1; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
